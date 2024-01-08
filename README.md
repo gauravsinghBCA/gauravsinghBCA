@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)) (https://gauravsinghBCA.io)
+![logo](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Gaurav kumar singh</h1>
 <h3 align="center">A passionate Java developer</h3>
 <img align="right" width="300" src="https://sklc-tinymce-2021.s3.amazonaws.com/comp/2022/08/62_1659690052.png" alt="coding">
