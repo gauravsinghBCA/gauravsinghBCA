@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java with DSA and System Designing through PW_Skills**
 
-- 💬 Ask me about **Java,DSA,HTML5,CSS,JavaScript,JDBC API,Hibernet JPA,Spring MVC,SpringBoot,Thymleaf,Mysql,mongodb**
+- 💬 Ask me about **Java,DSA,HTML5,CSS,JavaScript,JDBC API,Hibernet JPA,Spring MVC,Spring security,SpringBoot,Thymleaf,Mysql,mongodb**
 
 - 📫 How to reach me **gauravkrsingh27@gmail.com**
 
